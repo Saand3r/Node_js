@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Saand3r/Node_js#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "request": "^2.88.0",
     "underscore": "^1.9.1"
   }
