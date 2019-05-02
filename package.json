@@ -1,0 +1,19 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NodeTutorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saand3r/Node_js.git"
+  },
+  "author": "Saand3r <Sander-js@hotmail.com> (https://github.com/Saand3r/Node_js)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saand3r/Node_js/issues"
+  },
+  "homepage": "https://github.com/Saand3r/Node_js#readme"
+}
